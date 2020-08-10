@@ -38,7 +38,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
+- [POS 系統在健身產業的運用](https://icheft.github.io/coursework/im%202008/IM-2008-pos/)
+- [WRITE 5020 Day 08 Tutorial](https://icheft.github.io/coursework/write%205020/WRITE-5020-tutorial8/)
+- [My Thoughts on IM 2008 Final Project](https://icheft.github.io/coursework/im%202008/IM-2008-final-gp/)
+- [IM 1010 HW 7 Discussion Board](https://icheft.github.io/coursework/im%201010/IM-1010-HW7/)
+- [IM 1010 Midterm Note](https://icheft.github.io/coursework/im%201010/IM-1010-midterm-note/)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
