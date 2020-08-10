@@ -42,11 +42,12 @@
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
+
 ---
 
 [![icheft github stats](https://github-readme-stats.vercel.app/api?username=icheft&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icheft&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=icheft&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [website]: https://icheft.github.io/
 [instagram]: https://instagram.com/brian_lxchen
