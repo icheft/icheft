@@ -1,9 +1,9 @@
 ### Hi there, I'm Brian (@icheft on the Internet) 🌴
 
-🏋🏾‍♂️ Workout fanatic
-📚 I do study as well hah🤓
-🎾 Captain of College of Management Tennis Team
-🌱 Always learning new things
++ 🏋🏾‍♂️ Workout fanatic
++ 📚 I do study as well hah🤓
++ 🎾 Captain of College of Management Tennis Team
++ 🌱 Always learning new things
 Open to internship offers and any life advices (CV upon request)🙌🏾
 
 **Recent Projects/What I'm Up to**: [2020 CLIMAS Camp](https://climas.now.sh), Python for Finance, [My site](https://icheft.github.io). 
