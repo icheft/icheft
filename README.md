@@ -6,7 +6,7 @@
 + 🌱 Always learning new things
 Open to internship offers and any life advices (CV upon request)🙌🏾
 
-**Recent Projects/What I'm Up to**: [2020 CLIMAS Camp](https://climas.now.sh), Python for Finance, [My site](https://icheft.github.io). 
+**Recent Projects/What I'm Up to**: [2020 CLIMAS Camp](https://climas.now.sh), Python for Finance, [My site](https://icheft.github.io), and [NTU COM Tennis Team Recruting Site](https://http://2020ntucomtennis.now.sh).
 
 
 [<img align="left" alt="icheft.github.io" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/ionicons/5.1.2/collection/components/icon/svg/home-outline.svg" />][website]
